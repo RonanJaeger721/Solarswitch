@@ -1,0 +1,6 @@
+{
+  "name": "Solar Switch Installation",
+  "description": "Premium solar energy solutions and backup power installations for homes and businesses in Zimbabwe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
